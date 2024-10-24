@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\DeliveryService\\DeliveryService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DeliveryService.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DeliveryService.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\DeliveryService\\DeliveryService\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\DeliveryService\\DeliveryService\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\DeliveryService\\DeliveryService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\DeliveryService\\DeliveryService\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DeliveryService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DeliveryService.props",
+      "PackagePath": "build\\DeliveryService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DeliveryService.props",
+      "PackagePath": "buildMultiTargeting\\DeliveryService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DeliveryService.props",
+      "PackagePath": "buildTransitive\\DeliveryService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
